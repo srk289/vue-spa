@@ -22,7 +22,7 @@ $ yarn test
 or 
 
 ```sh
-$ npm start
+$ npm test
 ```
 
 This is a sample Vue SPA page that consists of
