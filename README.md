@@ -6,14 +6,23 @@ by Srikanth Kondaparthy
 $ cd vue-spa
 $ yarn install
 $ yarn start
-$ yarn test
 ```
 # OR
 ```sh
 $ cd vue-spa
 $ npm install
 $ npm start
-$ npm test
+```
+
+# Test
+```sh
+$ yarn test
+```
+
+or 
+
+```sh
+$ npm start
 ```
 
 This is a sample Vue SPA page that consists of
